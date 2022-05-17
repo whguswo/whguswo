@@ -15,4 +15,9 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <br><br><br>
+  
+  ![Stat](https://github-readme-stats.vercel.app/api?username=whguswo&show_icons=true&hide_border=true&count_private=true&theme=react)
+  
 </div>
+
