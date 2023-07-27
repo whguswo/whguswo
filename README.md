@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=282c34&text=whguswo&fontColor=797979&stroke=ffffff&height=170&fontAlignY=30&&animation=twinkling)
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
