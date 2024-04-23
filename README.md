@@ -19,7 +19,5 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br><br><br>
   
-  ![Stat](https://github-readme-stats.vercel.app/api?username=whguswo&show_icons=true&hide_border=true&count_private=true&theme=react)
-  
 </div>
 
